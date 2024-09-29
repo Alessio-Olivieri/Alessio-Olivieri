@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [plum-juice-project](https://plum-juice-project.github.io/plum-io/)
 
-- ⚡ Fun fact **Nobody I think is gonna see this readme**
+- ⚡ Fun fact: **I think nobody is gonna see this readme😪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
