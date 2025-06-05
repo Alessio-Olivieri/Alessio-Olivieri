@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alessio Olivieri</h1>
-<h3 align="center">Graduated computer Science & A.I. student at "La Sapienza", Now pursuing Master in Computer Science</h3>
+<h3 align="center">Graduated computer Science & A.I. student at "La Sapienza", Now pursuing Master in A.I. & Robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessio-olivieri&label=Profile%20views&color=0e75b6&style=flat" alt="alessio-olivieri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessio-olivieri" alt="alessio-olivieri" /></a> </p>
 
-- 🔭 I’m currently working on [Swing implementation on NCCL](https://github.com/Alessio-Olivieri/msccl-tools)
-
-- 🌱 I’m currently mastering **Distributed Systems and A.I.**
+- 🌱 I’m currently mastering ** A.I.**
 
 - 👯 I’m looking to collaborate on [plum-juice-project](https://plum-juice-project.github.io/plum-io/)
 
