@@ -1,42 +1,42 @@
-<h1 align="center">Hi 👋, I'm Alessio Olivieri</h1>
-<h3 align="center">Graduated Computer Science & A.I. student at "La Sapienza", now pursuing Master in A.I. & Robotics</h3>
+# Alessio Olivieri
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessio-olivieri&label=Profile%20views&color=0e75b6&style=flat" alt="alessio-olivieri" /> </p>
+**AI & Robotics MSc · Sapienza University of Rome**  
+Building systems at the intersection of **machine learning, computer vision, GPU computing and open-source engineering**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessio-olivieri" alt="alessio-olivieri" /></a> </p>
+[**Portfolio**](https://alessio-olivieri.github.io/) · [**CV / résumé**](https://alessio-olivieri.github.io/cv.html) · [**LinkedIn**](https://www.linkedin.com/in/alessio-olivieri/) · [**Email**](mailto:olivieri.1973323@studenti.uniroma1.it)
 
-- 🌱 I’m currently mastering **A.I.**
+Based in Rome, Italy · Interested in **remote, part-time research/engineering internships** with the potential to develop into an MSc thesis.
 
-- 👯 I’m looking to collaborate on [plum-juice-project](https://plum-juice-project.github.io/plum-io/)
+## Featured work
 
-- 📝 I write articles on my [blog](https://olivierialessio.org/blog)
+| Project | What I worked on |
+|---|---|
+| [**Mechanistic interpretability & ViT pruning**](https://github.com/Alessio-Olivieri/automatic-circuit-discovery-for-vision-transformer) | Implemented ACDC-style causal analysis and activation patching in PyTorch. Identified a sparse subnetwork, pruning **85% of attention heads** and **94% of the computational graph**; retrained for **2× CPU inference speed** with a 9% accuracy drop against the dense model. [Slides](https://github.com/Alessio-Olivieri/automatic-circuit-discovery-for-vision-transformer/blob/main/presentation.pdf). |
+| [**GPU collective communication / Swing AllReduce**](https://github.com/Alessio-Olivieri/msccl-tools) | Bachelor's thesis research on collective communication using MSCCL/MSCCLang and NCCL, including algorithm implementation and evaluation on HPC topologies. |
+| **Samsung Gear S3 ↔ Gadgetbridge** *(ongoing)* | Building an open-source, Samsung-free integration for a Tizen smartwatch: Bluetooth/SAP protocol investigation, notification actions and replies, reconnect behavior, and Android–watch interoperability. Work is in a development branch and has **not** been merged upstream. [Gadgetbridge upstream](https://codeberg.org/Freeyourgadget/Gadgetbridge). |
+| **Encrypted network traffic classification** *(research with Spognardi; ongoing)* | Built and evaluated graph-based packet/flow models on ISCX-VPN, using byte-randomization controls, packet-to-model tracing and capture provenance analysis. The flow-disjoint baseline performed well, but available captures **do not support a defensible six-class capture-independent evaluation**; this limitation is part of the research findings. |
+| [**Parallel MLP from scratch**](https://github.com/tintando/multiprocessing-NN) | C / Pthreads parallel MLP, plus a CUDA implementation; benchmarks reported in the CV show ~10× speedup using 10 CPU cores. |
+| [**Computer vision: real-time forest fire detection**](https://github.com/ami-sc/fire-detection) | Team project on camera-based surveillance: NumPy performance rewrite and background-subtraction-based detection. [Report](https://github.com/ami-sc/fire-detection/blob/main/reports/Technical_Report.pdf). |
 
-- ⚡ Fun fact: **I think nobody is gonna see this readme😪**
+## Other projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alessio-olivieri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessio-olivieri" height="30" width="40" /></a>
-<a href="https://instagram.com/alessio.olivierii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alessio.olivierii" height="30" width="40" /></a>
-<a href="https://olivierialessio.org" target="blank"><img align="center" src="https://img.shields.io/badge/My%20Website-olivierialessio.org-blue?style=flat-square&logo=google-chrome" alt="olivierialessio.org" height="30" /></a>
-</p>
+- [GialloZafferano recipe-network analysis](https://github.com/Alessio-Olivieri/GialloZafferano-Scraping) — scraping and network analysis of 6,000+ recipes.
+- [WasaPhoto](https://github.com/Alessio-Olivieri/WasaPhoto) — full-stack social platform built with Go, Vue, SQLite and Docker.
+- [Natural-language SQL chatbot](https://github.com/Alessio-Olivieri/chatbot) — LLM-driven order query assistant with a Streamlit interface.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p>
+## Focus & tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessio-olivieri&show_icons=true&locale=en" alt="alessio-olivieri" /></p>
+**Research interests:** robotics · computer vision · mechanistic interpretability · ML systems · parallel computing · network traffic analysis  
+**Tools:** Python · PyTorch · C · CUDA · Pthreads · Java · Go · JavaScript · SQL · Linux · Docker · Git
+
+## Education & background
+
+- **MSc — Artificial Intelligence & Robotics**, Sapienza University of Rome
+- **BSc — Applied Computer Science & Artificial Intelligence**, Sapienza University of Rome
+- Programming tutor for engineering, AI and statistics students; technical writing with Plum Juice.
+
+---
+
+**[View my portfolio](https://alessio-olivieri.github.io/)** · **[Read my CV](https://alessio-olivieri.github.io/cv.html)** · **[Get in touch](mailto:olivieri.1973323@studenti.uniroma1.it)**
+
+> *Portfolio includes ongoing research and development work; publication of source code and completion of experimental validation are not implied.*
